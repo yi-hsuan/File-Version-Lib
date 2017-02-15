@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="16008000">
+<Project Type="Project" LVVersion="15008000">
 	<Property Name="SMProvider.SMVersion" Type="Int">201310</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="IOScan.Faults" Type="Str"></Property>
@@ -51,8 +51,8 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F1D0A6BF-A0C8-46A5-8B41-D7D1FBD481FD}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
-				<Property Name="Bld_version.major" Type="Int">2016</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
+				<Property Name="Bld_version.major" Type="Int">2015</Property>
 				<Property Name="Destination[0].destName" Type="Str">Get File Information.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Get File Information.lvlibp</Property>
 				<Property Name="Destination[0].path.type" Type="Str">relativeToProject</Property>
@@ -63,7 +63,7 @@
 				<Property Name="Destination[1].path.type" Type="Str">relativeToProject</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{12974E9D-86EA-4B67-8E24-2DAD54AEB205}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{104EE729-ACE3-4EF1-9DBC-D215AA343A7F}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/File Version Lib.lvlib</Property>
